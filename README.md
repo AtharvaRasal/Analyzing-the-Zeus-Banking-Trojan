@@ -205,8 +205,6 @@ Will extract the strings with 6 or more characters.
 
 Next tool that we will use is Capa. We open a PowerShell and, as we mentioned earlier, just writing capa filename and this is the result:
 
-![capa](https://github.com/user-attachments/assets/d3207f29-4e76-4a8b-8dfb-02880b460ef2)
-
 
 So based on the result of this malware, detailed capabilities are:
 
